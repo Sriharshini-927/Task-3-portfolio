@@ -12,5 +12,11 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-**DESCRIPTION OF TASK **: This HTML portfolio for Sri Harshini effectively demonstrates her skills as a front-end developer. The well-structured design, clear sections, and engaging content make it an appealing showcase of her abilities and experience. The inclusion of both visual elements and text creates an inviting, professional, and informative website.
+**DESCRIPTION OF TASK **: 
+
+This HTML portfolio for Sri Harshini effectively demonstrates her skills as a front-end developer. The well-structured design, clear sections, and engaging content make it an appealing showcase of her abilities and experience. The inclusion of both visual elements and text creates an inviting, professional, and informative website.
+
+
 **OUTPUT**:
+
+https://github.com/user-attachments/assets/445c73a7-c7f1-4921-8f5f-4138c5368691
